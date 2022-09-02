@@ -1,4 +1,5 @@
-<h1 align="center">Hey, good to see you ,I am Morshidul Rahman</h1>
+<h1 align="center">Hey, good to see you ,<br/>
+  I am Morshidul Rahman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshidulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="morshidulrahman" /> </p>
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adorable-medovik-279c43.netlify.app/](https://adorable-medovik-279c43.netlify.app/)
 
-- 💬 Ask me about **React,JavaScript,React-Native,Next js**
+- 💬 Ask me about **React , JavaScript , React-Native , Next js**
 
 - 📫 How to reach me **boydanger416@gmail.com**
 
