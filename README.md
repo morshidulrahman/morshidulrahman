@@ -1,4 +1,4 @@
-<h1 align="center">Hey, good to see you <br/>
+<h1 align="center">Hey, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br/>
   I am Morshidul Rahman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -20,6 +20,7 @@
 
 - 📄 Know about my experiences [Resume](Resume)
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 - ⚡ Fun fact **I think I'm crazy**
 
 <h3 align="left">Connect with me:</h3>
