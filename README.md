@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morshidulrahman" alt="morshidulrahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@babu58902005" target="blank"><img src="https://img.shields.io/twitter/follow/@babu58902005?logo=twitter&style=for-the-badge" alt="@babu58902005" /></a> </p>
+<p align="left"> <a href="https://twitter.com/morshidulrahman" target="blank"><img src="https://img.shields.io/twitter/follow/morshidulrahman?logo=twitter&style=for-the-badge" alt="morshidulrahman" /></a> </p>
 
 - 🔭 I’m currently working on **something cool 😎**
 
@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morshidulrahman&show_icons=true&locale=en" alt="morshidulrahman" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morshidulrahman&" alt="morshidulrahman" /></p>
+
+<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=morshidulrahman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
