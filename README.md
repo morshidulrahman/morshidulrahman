@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Resume](Resume)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="550"/>
 - ⚡ Fun fact **I think I'm crazy**
 
 <h3 align="left">Connect with me:</h3>
