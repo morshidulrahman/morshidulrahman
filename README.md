@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **something amazing 🔥**
 
-- 👨‍💻 All of my projects are available at [https://adorable-medovik-279c43.netlify.app/](https://adorable-medovik-279c43.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adorable-medovik-279c43.netlify.app/](https://portfolio2-vod7.vercel.app/)
 
 - 💬 Ask me about **React , JavaScript , React-Native , Next js**
 
