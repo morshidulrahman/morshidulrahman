@@ -1,4 +1,5 @@
-<p><img align="left" src="https://i.ibb.co/NK1kH3V/1666503309881.jpg" width="600" height="300"/></p>
+<img align="center" src="https://i.ibb.co/NK1kH3V/1666503309881.jpg" width="500" height="200"/>
+
 <h1 align="center">Hey, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br/>
   I am Morshidul Rahman</h1>
 <h3 align="center">A passionate frontend developer | JavaScript| React.js| Redux | Firebase | Next js</h3>
