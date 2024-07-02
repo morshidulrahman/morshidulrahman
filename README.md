@@ -24,9 +24,9 @@
  
 - ⚡ Fun fact **I think I'm crazy**
 
-<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="400"/>
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="300"/>
 
-## <h3 align="left">Connect with me:</h3>
+## Connect with me: 
 <p align="left">
 <a href="https://twitter.com/@babu58902005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@babu58902005" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/morshidul rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morshidul rahman" height="30" width="40" /></a>
