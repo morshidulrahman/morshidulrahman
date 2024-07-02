@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **boydanger416@gmail.com**
 
-- 📄 Know about my experiences Resume
+- 📄 Know about my experiences (Resume)
  
 - ⚡ Fun fact **I think I'm crazy**
 
