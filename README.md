@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/@babu58902005" target="blank"><img src="https://img.shields.io/twitter/follow/@babu58902005?logo=twitter&style=for-the-badge" alt="morshidulrahman" /></a> </p>
 
 ## 🙋‍♂️ About Me
-<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="300"/>
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="450"/>
 
 - 🔭 I’m currently working on **something cool 😎**
 
