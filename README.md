@@ -45,7 +45,7 @@
  <p align="left">
    <img width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=morshidulrahman&show_icons=true&locale=en&layout=compact" alt="morshidulrahman" />
  </p>
- <p align="right">
+ <p align="left">
    <img width="495px"  src="https://github-readme-stats.vercel.app/api?username=morshidulrahman&" />
  </p>
 <p align="center">
