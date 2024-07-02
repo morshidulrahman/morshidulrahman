@@ -45,5 +45,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morshidulrahman&" alt="morshidulrahman" /></p>
 
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidobr&hide=html,css&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=guidobr&theme=radical" /></td>
+  </tr>   
+</table>
+</center>
 
