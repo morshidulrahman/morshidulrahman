@@ -1,3 +1,4 @@
+<img align="left" src="https://ibb.co/qp04Pny" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="400"/>
 <h1 align="center">Hey, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br/>
   I am Morshidul Rahman</h1>
 <h3 align="center">A passionate frontend developer | JavaScript| React.js| Redux | Firebase | Next js</h3>
