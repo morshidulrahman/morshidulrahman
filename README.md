@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **boydanger416@gmail.com**
 
-- 📄 Know about my experiences: [Resume](link_to_your_resume)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P_i8BF5MhBfqSydh9m8fMSTX3OZkSfX-/view)
  
 - ⚡ Fun fact **I think I'm crazy**
 
