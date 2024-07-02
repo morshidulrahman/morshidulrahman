@@ -48,8 +48,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidobr&hide=html,css&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=guidobr&theme=radical" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morshidulrahman&hide=html,css&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=morshidulrahman&" /></td>
   </tr>   
 </table>
 </center>
