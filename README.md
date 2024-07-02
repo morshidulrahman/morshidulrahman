@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/NK1kH3V/1666503309881.jpg" width="600" height="200"/>
+<img align="center" src="https://i.ibb.co/NK1kH3V/1666503309881.jpg" width="600" />
 
 <h1 align="center">Hey, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br/>
   I am Morshidul Rahman</h1>
