@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at (https://portfolio2-vod7.vercel.app/)
 
-- 💬 Ask me about **React , JavaScript , Node js , Next js , MongoDb**
+- 💬 Ask me about **React , JavaScript , Node js , Next js , MongoDB**
 
 - 📫 How to reach me **morshidulrahman4167@gmail.com**
 
