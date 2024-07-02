@@ -32,7 +32,7 @@
 ## Connect with me: 
 <p align="left">
 <a href="https://twitter.com/@babu58902005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@babu58902005" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/morshidul rahman](https://www.linkedin.com/in/morshidulrahman/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morshidul rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/morshidulrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morshidul rahman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/morshidul.rahman.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morshidul rahman babu" height="30" width="40" /></a>
 <a href="https://instagram.com/morshidulbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morshidulbabu" height="30" width="40" /></a>
 </p>
