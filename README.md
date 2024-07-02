@@ -21,12 +21,12 @@
 
 - 📫 How to reach me **boydanger416@gmail.com**
 
-- 📄 Know about my experiences (Resume)
+- 📄 Know about my experiences: [Resume](link_to_your_resume)
  
 - ⚡ Fun fact **I think I'm crazy**
 
-
-
+---
+---
 
 ## Connect with me: 
 <p align="left">
