@@ -45,4 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morshidulrahman&" alt="morshidulrahman" /></p>
 
-<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=morshidulrahman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
