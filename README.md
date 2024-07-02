@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at (https://portfolio2-vod7.vercel.app/)
 
-- 💬 Ask me about **React , JavaScript , React-Native , Next js**
+- 💬 Ask me about **React , JavaScript , Node js , Next js , MongoDb**
 
 - 📫 How to reach me **morshidulrahman4167@gmail.com**
 
@@ -46,4 +46,11 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=morshidulrahman&" alt="morshidulrahman" />
 </p>
 
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morshidulrahman&show_icons=true&locale=en&layout=compact" alt="morshidulrahman" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=morshidulrahman&" /></td>
+  </tr>   
+</table>
+</center>
