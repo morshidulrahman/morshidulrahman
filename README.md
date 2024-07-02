@@ -45,7 +45,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morshidulrahman&hide=html,css&layout=compact" /></td>
+      <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morshidulrahman&show_icons=true&locale=en&layout=compact" alt="morshidulrahman" /></p></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=morshidulrahman&" /></td>
   </tr>   
 </table>
