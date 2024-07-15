@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **something amazing 🔥**
 
-- 👨‍💻 All of my projects are available at (https://portfolio2-vod7.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://morshidul-portfolio.netlify.app)
 
 - 💬 Ask me about **React , JavaScript , Node js , Next js , MongoDB**
 
 - 📫 How to reach me **morshidulrahman4167@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P_i8BF5MhBfqSydh9m8fMSTX3OZkSfX-/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1rGp1obhMJK2lxNiqIiUZFy5qfZCRG3c3/view?usp=drive_link)
  
 - ⚡ Fun fact **I think I'm crazy**
 
