@@ -46,6 +46,8 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=morshidulrahman&" alt="morshidulrahman" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=morshidulrahman&theme=dark)](https://git.io/streak-stats)
+
 <center>
 <table>
   <tr>
