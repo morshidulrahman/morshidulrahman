@@ -44,7 +44,7 @@
 
 <p align="center">
   <img width="400px"   src="[https://github-readme-stats.vercel.app/api/top-langs?username=morshidulrahman&show_icons=true&locale=en&layout=compact] 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morshidulrahman)](https://git.io/streak-stats)
+ 
 </p>
 
 <center>
