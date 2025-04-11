@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br/>
   I am Morshidul Rahman</h1>
-<h3 align="center">A passionate Full-Stack developer | JavaScript| React.js| Redux | Firebase | Next js</h3>
+<h3 align="center">A passionate Full-Stack developer | JavaScript| React.js| Redux | Firebase | Next js | Typescript | Node | Mongodb | Prisma | Postgresql</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshidulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="morshidulrahman" /> </p>
 
